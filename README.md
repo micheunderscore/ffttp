@@ -8,7 +8,7 @@ Make sure your Powershell/VSCode terminal is cd-ed into the folder.
 1. Install dependencies
 ```bash
 $ yarn
--- or --
+# -- or --
 $ yarn install
 ```
 2. Start coding
