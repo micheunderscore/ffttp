@@ -35,7 +35,8 @@ const RootStack = observer(() => {
 
 export const RootNavigator = React.forwardRef<
   Partial<React.ComponentProps<typeof NavigationContainer>>
->((props) => {
+>((props, ref) => {
+  // console.log(ref);
   return (
     <NavigationContainer {...props}>
       <RootStack />
