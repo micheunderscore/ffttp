@@ -1,6 +1,6 @@
 # Furnishing Futures TTP App Project
 
-# Getting Started
+## Getting Started
 
 Make sure your Powershell/VSCode terminal is cd-ed into the folder:
 - Open `VSCode` and press ``` Ctrl + ` ```. Select `Bash` or `Powershell`
