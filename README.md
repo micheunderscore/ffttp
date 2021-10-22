@@ -1,16 +1,5 @@
 # ffttp React Native
-Furnishing Futures TTP App Project
----
-
-# Technologies Used
-
-1.  Package Manager - `yarn`
-2.  Coding styles - `TypeScript`
-3.  UI styles - `styled-components`
-4.  UI Framework - `React Native`
-5.  Coding Practice - `Eslint` rules for `(.ts, .tsx)`
-
----
+### Furnishing Futures TTP App Project
 
 # Getting Started
 
@@ -19,7 +8,7 @@ Make sure your Powershell/VSCode terminal is cd-ed into the folder.
 1. Install dependencies
 ```bash
 $ yarn
-# -- or --
+-- or --
 $ yarn install
 ```
 2. Start coding
@@ -33,7 +22,7 @@ $ yarn start
 
 ```
 
-Extra Commands
+### Extra Commands
 
 ```bash
 
@@ -52,7 +41,7 @@ $ yarn run ios
 
 ```
 
-Miscellaneous
+### Miscellaneous
 
 If you wish to install/remove dependencies in projects or packages, you can use command below
 
@@ -63,6 +52,16 @@ yarn add <DEPENDENCIES>
 # Removing packages
 yarn remove <DEPENDENCIES>
 ```
+
+---
+
+## Technologies Used
+
+1.  Package Manager - `yarn`
+2.  Coding styles - `TypeScript`
+3.  UI styles - `styled-components`
+4.  UI Framework - `React Native`
+5.  Coding Practice - `Eslint` rules for `(.ts, .tsx)`
 
 ---
 
