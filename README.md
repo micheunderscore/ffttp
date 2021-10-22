@@ -1,5 +1,4 @@
-# ffttp React Native
-### Furnishing Futures TTP App Project
+# Furnishing Futures TTP App Project
 
 # Getting Started
 
