@@ -116,7 +116,7 @@ palette.black // black color
 
 ---
 
-## Remember to practice using reusable components
+## Remember to practice using/creating reusable components
 
 ### React Native
 If you are currently running into issues please remember to refer to the [React Native Official Documentation](https://reactnative.dev/)
