@@ -13,7 +13,7 @@
 
 Some links or reference here
 
-## Screenshots / Vidoes
+## Screenshots / Videos
 
 <!-- insert app screenshots here -->
 
@@ -24,4 +24,4 @@ Some links or reference here
 <!-- insert the person you wish to mention here -->
 <!-- eg: @mentionPersonA -->
 
-@mention someone here
+@Please mention someone here
