@@ -3,7 +3,11 @@
 
 # Getting Started
 
-Make sure your Powershell/VSCode terminal is cd-ed into the folder.
+Make sure your Powershell/VSCode terminal is cd-ed into the folder:
+- Open `VSCode` and press ``` Ctrl + ` ```. Select `Bash` or `Powershell`
+or
+- Open `Powershell` and run `cd <FULL PROJECT DIRECTORY>`
+
 
 1. Install dependencies
 ```bash
