@@ -9,11 +9,11 @@
 ## Reference to the cards / issues / tickets
 
 <!-- eg: insert the links or the reference photos / images here -->
-<!-- eg: https://github.com/lava-x/react-native-skeleton/pull/30 -->
+<!-- eg: https://www.youtube.com/watch?v=tmY-G6sngk8 -->
 
 Some links or reference here
 
-## Screenshots / Vidoes
+## Screenshots / Videos
 
 <!-- insert app screenshots here -->
 
@@ -24,4 +24,4 @@ Some links or reference here
 <!-- insert the person you wish to mention here -->
 <!-- eg: @mentionPersonA -->
 
-@mention someone here
+@Please mention someone here
