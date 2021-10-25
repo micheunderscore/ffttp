@@ -10,7 +10,7 @@ export const Example2 = () => {
     <Screen>
       <View>
         <Text style={{ color: color.text, textAlign: "center" }}>
-          {`This is an\n`}
+          {`This is ea\n`}
           <Title>EXAMPLE</Title>
           {`\nof how to do\n`}
           <Title>SCREENS</Title>
