@@ -2,6 +2,7 @@ import { createDrawerNavigator } from "@react-navigation/drawer";
 import * as React from "react";
 import { ExampleScreen1 } from "../screens/ExampleScreen1";
 import { ExampleScreen2 } from "../screens/ExampleScreen2";
+import { LoginScreen } from "../screens/LoginScreen";
 import { color } from "../theme";
 
 const Drawer = createDrawerNavigator();
@@ -20,6 +21,7 @@ export const DrawerStack = () => {
       }}>
       <Drawer.Screen name="Example 1" component={ExampleScreen1} />
       <Drawer.Screen name="Example 2" component={ExampleScreen2} />
+      <Drawer.Screen name="Login" component={LoginScreen} />
     </Drawer.Navigator>
   );
 };
