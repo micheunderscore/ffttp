@@ -3,6 +3,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import { observer } from "mobx-react-lite";
 import React from "react";
 import FlashMessage from "react-native-flash-message";
+import { LoginScreen } from "../screens/LoginScreen";
 import { DrawerStack } from "./DrawerNavigator";
 import styles from "./styles";
 
@@ -10,6 +11,7 @@ export type RootParamList = {
   example1: undefined;
   example2: undefined;
   drawer: undefined;
+  login: undefined;
 };
 
 const Stack = createStackNavigator<RootParamList>();
@@ -25,6 +27,13 @@ const RootStack = observer(() => {
       <Stack.Screen
         name="drawer"
         component={DrawerStack}
+        options={{
+          headerShown: false
+        }}
+      />
+      <Stack.Screen
+        name="login"
+        component={LoginScreen}
         options={{
           headerShown: false
         }}
